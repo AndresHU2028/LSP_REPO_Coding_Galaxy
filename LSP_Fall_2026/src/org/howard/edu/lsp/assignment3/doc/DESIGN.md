@@ -19,7 +19,7 @@ The design for Assignment #3 is an improvement as it's easier to read and less c
 
 AI and External Resources
 Google Gemini was used for assistance with the refactoring and discussing the design.
-Transcript Link:
+Transcript Link: https://share.gemini.google/pQNsoJz1bz1m
 
 External References were standard Java SE 8 Documentation for "java.io" and "java.math.BigDecimal".
 
